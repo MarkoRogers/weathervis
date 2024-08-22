@@ -6,3 +6,4 @@ Updated on streamlined conditional logic
 Updated on added more descriptive comments
 Updated on refactored code for better modularity
 Updated on fixed indentation issues
+Updated on optimized some function performance
